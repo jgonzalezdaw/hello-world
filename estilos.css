@@ -1,0 +1,24 @@
+nav{
+	width:20%;
+	float:left;
+	background-color:#eeeeee;
+}
+aside{
+	width:20%;
+	float:right;
+	background-color:#eeeeee;
+}
+section{
+	width:52%;
+	margin:0% 2%;
+	padding:0% 2%;
+	float:left;
+	background-color:#d4d4d4;
+}
+footer, header{
+	background-color:#aaaaaa;
+	margin:10px 0px;
+}
+.clear{
+	clear:both;
+}
